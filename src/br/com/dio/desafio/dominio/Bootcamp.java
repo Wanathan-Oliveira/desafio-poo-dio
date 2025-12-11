@@ -55,6 +55,9 @@ public class Bootcamp {
         this.conteudos = conteudos;
     }
 
+
+
+
     @Override
     public boolean equals(Object o) {
         if (this == o) return true;
